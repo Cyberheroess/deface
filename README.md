@@ -33,7 +33,7 @@
 
 Masukkan pilihan Anda:
 
-
+```
 ---
 
 📌 Cara Menggunakan
@@ -86,9 +86,9 @@ Persiapan:
 
 
 Jalankan Script:
-
+```bash
 python main.py
-
+```
 Ikuti instruksi yang muncul di terminal untuk melakukan pengujian keamanan.
 
 
