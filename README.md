@@ -78,7 +78,8 @@ Persiapan:
 
 Jalankan Script:
 ```bash
-git clone 
+git clone https://github.com/Cyberheroess/deface.git
+cd deface
 python main.py
 ```
 Ikuti instruksi yang muncul di terminal untuk melakukan pengujian keamanan.
