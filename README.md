@@ -1,5 +1,4 @@
-# 🌐 **SALDY Framework** - Panduan Lengkap
-
+# 🌐 **SALDY Framework** - deface website
 ---
 
 ## 🚀 **Fitur Utama**
@@ -64,14 +63,6 @@ Masukkan pilihan Anda: 4
 
 
 ---
-
-📂 Struktur File
-
-- main.py: Script utama yang mengelola seluruh proses.
-- proxies.txt: Daftar proxy untuk digunakan dalam serangan.
-- user_agents.txt: Daftar user-agent untuk menghindari deteksi.
-
-
 ---
 
 🛠️ Cara Menjalankan Framework
@@ -87,9 +78,9 @@ Persiapan:
 
 Jalankan Script:
 ```bash
+git clone 
 python main.py
 ```
 Ikuti instruksi yang muncul di terminal untuk melakukan pengujian keamanan.
-
 
 ---
